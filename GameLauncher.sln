@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLauncher", "GameLauncher\GameLauncher.csproj", "{BF703FE5-3641-4D78-AF85-7D227485400B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF703FE5-3641-4D78-AF85-7D227485400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF703FE5-3641-4D78-AF85-7D227485400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF703FE5-3641-4D78-AF85-7D227485400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF703FE5-3641-4D78-AF85-7D227485400B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB5F3F60-36A2-465F-8387-D125F2271D34}
+	EndGlobalSection
+EndGlobal
